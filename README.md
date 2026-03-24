@@ -22,6 +22,7 @@
 - 📱 **[cactus](https://github.com/Conn-Ho/cactus)** — Cross-platform framework to run LLMs locally in Flutter, React Native & KMP apps. Supports any GGUF model.
 - 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
 - 🎨 **[huobao-canvas](https://github.com/Conn-Ho/huobao-canvas)** — Node-based AI canvas for text-to-image and video generation workflows. [Try it live](https://marketing.chatfire.site/huobao-canvas/).
+- 📱 **[AR_project](https://github.com/Conn-Ho/AR_project)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 
 ## Automation
 
