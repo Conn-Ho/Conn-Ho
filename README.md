@@ -19,6 +19,7 @@
 
 ## Projects
 
+- 🔧 **[harness-engineering](https://github.com/Conn-Ho/harness-engineering)** — Harness Engineering 驭化工程知识库。综合整理自 OpenAI、Martin Fowler、LangChain 等多方资料，系统化 AI Agent 工程范式：上下文工程、架构约束、熵管理，含 4/8 周实施路线图与模板。
 - 🎬 **[ai-video-generator](https://github.com/Conn-Ho/ai-video-generator)** — AI short video batch generator. Input a topic → Gemini writes the script → Remotion renders 9:16 videos for TikTok & Xiaohongshu.
 - 🖥️ **[dev-process-manager](https://github.com/Conn-Ho/dev-process-manager)** — macOS Electron app: real-time dev process monitor with port mapping, memory tracking, and zombie detection.
 - 🧩 **[prompt-manager](https://github.com/Conn-Ho/prompt-manager)** — Browser extension for prompt management. Type `/p` in any input field to search and insert prompts with variable support.
