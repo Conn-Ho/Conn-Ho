@@ -26,7 +26,7 @@
 - 📱 **[museum-ar](https://github.com/Conn-Ho/museum-ar)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 - 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
 
-## BCI
+## Hackathon
 
 - 🧠 **[neuro-rec](https://github.com/Conn-Ho/neuro-rec)** — EEG-powered recommendation engine. Emotiv headset → real-time brainwave analysis → personalized content suggestions.
 - 🎵 **[neuro-sync](https://github.com/Conn-Ho/neuro-sync)** — Brain-to-music: live EEG signals drive Google Lyria's real-time music generation API.
