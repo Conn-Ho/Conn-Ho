@@ -28,6 +28,13 @@
 - 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
 - 🎨 **[huobao-canvas](https://github.com/Conn-Ho/huobao-canvas)** — Node-based AI canvas for text-to-image and video generation workflows. [Try it live](https://marketing.chatfire.site/huobao-canvas/).
 - 📱 **[AR_project](https://github.com/Conn-Ho/AR_project)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
+- 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
+
+## BCI
+
+- 🧠 **[neuro-rec](https://github.com/Conn-Ho/neuro-rec)** — EEG-powered recommendation engine. Emotiv headset → real-time brainwave analysis → personalized content suggestions.
+- 🎵 **[neuro-sync](https://github.com/Conn-Ho/neuro-sync)** — Brain-to-music: live EEG signals drive Google Lyria's real-time music generation API.
+- 🎮 **[relife](https://github.com/Conn-Ho/relife)** — Multimodal BCI rehabilitation game. CAMEL AI agents + EEG + vision → adaptive cognitive therapy.
 
 ## Automation
 
