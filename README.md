@@ -23,7 +23,7 @@
 - 🎬 **[ai-video-generator](https://github.com/Conn-Ho/ai-video-generator)** — AI short video batch generator. Input a topic → Gemini writes the script → Remotion renders 9:16 videos for TikTok & Xiaohongshu.
 - 🖥️ **[dev-process-manager](https://github.com/Conn-Ho/dev-process-manager)** — macOS Electron app: real-time dev process monitor with port mapping, memory tracking, and zombie detection.
 - 🧩 **[prompt-manager](https://github.com/Conn-Ho/prompt-manager)** — Browser extension for prompt management. Type `/p` in any input field to search and insert prompts with variable support.
-- 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
+- 🕵️ **[find-your-agent](https://find-your-agent.com)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
 - 📱 **[museum-ar](https://github.com/Conn-Ho/museum-ar)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 - 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
 - 📈 **[polymarket-btc-tracker](https://github.com/Conn-Ho/polymarket-btc-tracker)** — Dark trading terminal: real-time BTC price + Polymarket 15m Up/Down market. EMA/ROC/RSI signals, Kelly Criterion sizing, no API keys needed.
