@@ -19,14 +19,7 @@
 
 ## Projects
 
-- 🖥️ **[claudecodeui](https://github.com/Conn-Ho/claudecodeui)** — Desktop & mobile UI for Claude Code and Cursor CLI. Use your AI coding agent from anywhere, including your phone.
-- 🎌 **[aimangastudio](https://github.com/Conn-Ho/aimangastudio)** — End-to-end AI manga creation: script → storyboard → character style → export. Built for indie creators.
-- 🎬 **[MAVGE](https://github.com/Conn-Ho/MAVGE)** — Multi-Agent Video Generation Engine. Text → cinematic storyboard → AI video, with 15+ style presets.
-- ✂️ **[AutoClip](https://github.com/Conn-Ho/autoclip)** — AI-powered clip extractor from YouTube & Bilibili. Async queue, real-time progress, one-click export.
-- 🖼️ **[RedInk](https://github.com/Conn-Ho/RedInk)** — One sentence → full illustrated Xiaohongshu post. Live at [redink.top](https://redink.top).
-- 📱 **[cactus](https://github.com/Conn-Ho/cactus)** — Cross-platform framework to run LLMs locally in Flutter, React Native & KMP apps. Supports any GGUF model.
 - 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
-- 🎨 **[huobao-canvas](https://github.com/Conn-Ho/huobao-canvas)** — Node-based AI canvas for text-to-image and video generation workflows. [Try it live](https://marketing.chatfire.site/huobao-canvas/).
 - 📱 **[museum-ar](https://github.com/Conn-Ho/museum-ar)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 - 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
 
