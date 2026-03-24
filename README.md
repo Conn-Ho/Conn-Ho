@@ -25,7 +25,6 @@
 - 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
 - 📱 **[museum-ar](https://github.com/Conn-Ho/museum-ar)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 - 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
-
 - 📈 **[polymarket-btc-tracker](https://github.com/Conn-Ho/polymarket-btc-tracker)** — Dark trading terminal: real-time BTC price + Polymarket 15m Up/Down market. EMA/ROC/RSI signals, Kelly Criterion sizing, no API keys needed.
 
 ## Hackathon
