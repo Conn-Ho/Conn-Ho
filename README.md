@@ -27,6 +27,7 @@
 
 > If I do it more than twice, I automate it.
 
+- 🛰️ **[ai-radar](https://github.com/Conn-Ho/ai-radar)** — Daily AI tools intelligence: monitors 6 sources, surfaces Top 50 products & 100 fastest growers every morning.
 - 📚 **[weread2notion](https://github.com/Conn-Ho/weread2notion)** — Daily sync of WeRead highlights → Notion, with Playwright auto cookie refresh.
 - 📝 **[zhihu2notion](https://github.com/Conn-Ho/zhihu2notion)** — Daily sync of Zhihu favorites → Notion.
 
