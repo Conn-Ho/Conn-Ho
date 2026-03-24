@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Conn-Ho 👋
 
-<!--
-**Conn-Ho/Conn-Ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Builder** | 🤖 **AI-native tools** | 🎬 **Video · Content · Dev infra**
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I build things that should exist — AI tools for creators, developers, and anyone who hates doing the same thing twice.
+
+## Projects
+
+- 🖥️ **[claudecodeui](https://github.com/Conn-Ho/claudecodeui)** — Desktop & mobile UI for Claude Code and Cursor CLI. Use your AI coding agent from anywhere, including your phone.
+- 🎌 **[aimangastudio](https://github.com/Conn-Ho/aimangastudio)** — End-to-end AI manga creation: script → storyboard → character style → export. Built for indie creators.
+- 🎬 **[MAVGE](https://github.com/Conn-Ho/MAVGE)** — Multi-Agent Video Generation Engine. Text → cinematic storyboard → AI video, with 15+ style presets.
+- ✂️ **[AutoClip](https://github.com/Conn-Ho/autoclip)** — AI-powered clip extractor from YouTube & Bilibili. Async queue, real-time progress, one-click export.
+- 🖼️ **[RedInk](https://github.com/Conn-Ho/RedInk)** — One sentence → full illustrated Xiaohongshu post. Live at [redink.top](https://redink.top).
+- 📱 **[cactus](https://github.com/Conn-Ho/cactus)** — Cross-platform framework to run LLMs locally in Flutter, React Native & KMP apps. Supports any GGUF model.
+- 🕵️ **[find-your-agent](https://github.com/Conn-Ho/find-your-agent)** — Natural language search engine for AI tools. Describe what you need, find the right agent.
+- 🎨 **[huobao-canvas](https://github.com/Conn-Ho/huobao-canvas)** — Node-based AI canvas for text-to-image and video generation workflows. [Try it live](https://marketing.chatfire.site/huobao-canvas/).
+
+## Automation
+
+> If I do it more than twice, I automate it.
+
+- 📚 **[weread2notion](https://github.com/Conn-Ho/weread2notion)** — Daily sync of WeRead highlights → Notion, with Playwright auto cookie refresh.
+- 📝 **[zhihu2notion](https://github.com/Conn-Ho/zhihu2notion)** — Daily sync of Zhihu favorites → Notion.
+
+## What I'm Doing
+
+- **Shipping AI products fast** — from idea to working demo in days
+- **Building in public** — tools, automations, and experiments
+- **Exploring the agentic stack** — multi-agent systems, LLM tooling, creative AI
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Conn-Ho)
