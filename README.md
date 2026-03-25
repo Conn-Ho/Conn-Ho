@@ -19,6 +19,7 @@
 
 ## Projects
 
+- 🔲 **[ApexNotch](https://github.com/Conn-Ho/ApexNotch)** — macOS notch overlay for Claude Code. Real-time AI agent status, token usage, GitHub CI/PRs/commits — all living inside the MacBook notch.
 - 🔧 **[harness-engineering](https://github.com/Conn-Ho/harness-engineering)** — A knowledge base for Harness Engineering. Synthesized from OpenAI, Martin Fowler, LangChain & more — covering context engineering, architectural constraints, entropy management, with 4/8-week roadmaps and ready-to-use templates.
 - 🎬 **[ai-video-generator](https://github.com/Conn-Ho/ai-video-generator)** — AI short video batch generator. Input a topic → Gemini writes the script → Remotion renders 9:16 videos for TikTok & Xiaohongshu.
 - 🖥️ **[dev-process-manager](https://github.com/Conn-Ho/dev-process-manager)** — macOS Electron app: real-time dev process monitor with port mapping, memory tracking, and zombie detection.
@@ -57,3 +58,4 @@
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Conn-Ho)
+
