@@ -36,6 +36,10 @@
 - 🎵 **[neuro-sync](https://github.com/Conn-Ho/neuro-sync)** — Brain-to-music: live EEG signals drive Google Lyria's real-time music generation API.
 - 🎮 **[relife](https://github.com/Conn-Ho/relife)** — Multimodal BCI rehabilitation game. CAMEL AI agents + EEG + vision → adaptive cognitive therapy.
 
+## Open Source
+
+- 🔧 **[opencli](https://github.com/jackwener/opencli)** — Contributed WeRead (微信读书) CLI adapter: fixed API endpoints, arg parsing bugs, and test coverage. [PR #433](https://github.com/jackwener/opencli/pull/433)
+
 ## Setup
 
 - 🖥️ **[dotfiles](https://github.com/Conn-Ho/dotfiles)** — Ghostty + Zellij with black-metal theme, Claude Code with `skipDangerousModePermissionPrompt`, Swift/Clang/Rust LSP, and 178 custom skills.
