@@ -27,6 +27,7 @@
 - 📱 **[museum-ar](https://github.com/Conn-Ho/museum-ar)** — iOS AR museum guide: 3D virtual museum + marker-free AR artifact interaction, built with ARKit & SceneKit.
 - 🤖 **[DeepSeek-Desktop](https://github.com/Conn-Ho/DeepSeek-Desktop)** — DeepSeek AI as a native desktop app. Electron wrapper for macOS, Windows & Linux.
 - 📈 **[polymarket-btc-tracker](https://github.com/Conn-Ho/polymarket-btc-tracker)** — Dark trading terminal: real-time BTC price + Polymarket 15m Up/Down market. EMA/ROC/RSI signals, Kelly Criterion sizing, no API keys needed.
+- 🧪 **[frontend-interview](https://github.com/Conn-Ho/frontend-interview)** — A take-home frontend interview challenge. Fix the Express API bugs, then build a login UI with form validation, state management & component design.
 
 ## Hackathon
 
