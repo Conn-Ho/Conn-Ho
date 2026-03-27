@@ -66,6 +66,4 @@
 - **Building in public** — tools, automations, and experiments
 - **Exploring the agentic stack** — multi-agent systems, LLM tooling, creative AI
 
-## GitHub Activity
-
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Conn-Ho)
