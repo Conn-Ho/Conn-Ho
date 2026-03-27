@@ -65,5 +65,3 @@
 - **Shipping AI products fast** — from idea to working demo in days
 - **Building in public** — tools, automations, and experiments
 - **Exploring the agentic stack** — multi-agent systems, LLM tooling, creative AI
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Conn-Ho)
